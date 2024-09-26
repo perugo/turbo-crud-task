@@ -1,0 +1,27 @@
+current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+/Users/noelgirard/.asdf/installs/ruby/3.3.4/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240926-62123-p8aj4h sitelibdir\=./.gem.20240926-62123-p8aj4h clean
+
+current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240926-62123-p8aj4h sitelibdir\=./.gem.20240926-62123-p8aj4h
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+
+current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240926-62123-p8aj4h sitelibdir\=./.gem.20240926-62123-p8aj4h install
+/opt/homebrew/bin/ginstall -c -m 0755 rbs_extension.bundle ./.gem.20240926-62123-p8aj4h
+
+current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240926-62123-p8aj4h sitelibdir\=./.gem.20240926-62123-p8aj4h clean
