@@ -3,16 +3,16 @@ current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.
 creating Makefile
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20240926-28240-jbfzp4 sitelibdir\=./.gem.20240926-28240-jbfzp4 clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-44358-ly1xlg sitelibdir\=./.gem.20240926-44358-ly1xlg clean
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20240926-28240-jbfzp4 sitelibdir\=./.gem.20240926-28240-jbfzp4
+make DESTDIR\= sitearchdir\=./.gem.20240926-44358-ly1xlg sitelibdir\=./.gem.20240926-44358-ly1xlg
 compiling stringio.c
 linking shared-object stringio.bundle
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20240926-28240-jbfzp4 sitelibdir\=./.gem.20240926-28240-jbfzp4 install
-/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20240926-28240-jbfzp4
+make DESTDIR\= sitearchdir\=./.gem.20240926-44358-ly1xlg sitelibdir\=./.gem.20240926-44358-ly1xlg install
+/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20240926-44358-ly1xlg
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20240926-28240-jbfzp4 sitelibdir\=./.gem.20240926-28240-jbfzp4 clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-44358-ly1xlg sitelibdir\=./.gem.20240926-44358-ly1xlg clean
