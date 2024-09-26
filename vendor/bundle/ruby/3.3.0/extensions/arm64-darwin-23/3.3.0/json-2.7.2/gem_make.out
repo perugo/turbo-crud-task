@@ -3,14 +3,14 @@ current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.
 creating Makefile
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-klgrlk sitelibdir\=./.gem.20240926-44358-klgrlk clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-58ast2 sitelibdir\=./.gem.20240926-56334-58ast2 clean
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-klgrlk sitelibdir\=./.gem.20240926-44358-klgrlk
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-58ast2 sitelibdir\=./.gem.20240926-56334-58ast2
 make: Nothing to be done for `all'.
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-klgrlk sitelibdir\=./.gem.20240926-44358-klgrlk install
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-58ast2 sitelibdir\=./.gem.20240926-56334-58ast2 install
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-klgrlk sitelibdir\=./.gem.20240926-44358-klgrlk clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-58ast2 sitelibdir\=./.gem.20240926-56334-58ast2 clean

@@ -3,16 +3,16 @@ current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.
 creating Makefile
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-t9t7zp sitelibdir\=./.gem.20240926-44358-t9t7zp clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-tjtnnu sitelibdir\=./.gem.20240926-56334-tjtnnu clean
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-t9t7zp sitelibdir\=./.gem.20240926-44358-t9t7zp
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-tjtnnu sitelibdir\=./.gem.20240926-56334-tjtnnu
 compiling websocket_mask.c
 linking shared-object websocket_mask.bundle
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-t9t7zp sitelibdir\=./.gem.20240926-44358-t9t7zp install
-/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20240926-44358-t9t7zp
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-tjtnnu sitelibdir\=./.gem.20240926-56334-tjtnnu install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20240926-56334-tjtnnu
 
 current directory: /Users/noelgirard/lab/turbo-crud-task/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20240926-44358-t9t7zp sitelibdir\=./.gem.20240926-44358-t9t7zp clean
+make DESTDIR\= sitearchdir\=./.gem.20240926-56334-tjtnnu sitelibdir\=./.gem.20240926-56334-tjtnnu clean
